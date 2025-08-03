@@ -5,8 +5,8 @@ from aiogram.types import Message, KeyboardButton, ReplyKeyboardMarkup
 from aiogram.filters import Command
 
 
-BOT_TOKEN = "7649996689:AAHMgJgL94OPMWHXilQ5ysAEEjIEz0VO3uM"
-WEATHER_API_KEY = "ccf9d27f5bf645960e60a081e27f885e"
+BOT_TOKEN = ""
+WEATHER_API_KEY = ""
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
